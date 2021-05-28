@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of nature](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fhd%2520background%2F&psig=AOvVaw0Y4ddxMwA2JW2lnMIakYxq&ust=1622304017119000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCND89svf7PACFQAAAAAdAAAAABAD)
