@@ -1,1 +1,1 @@
-![Image of nature](https://www.google.com/imgres?imgurl=https%3A%2F%2Fceblog.s3.amazonaws.com%2Fwp-content%2Fuploads%2F2012%2F05%2F20172622%2Fce-travel.jpg&imgrefurl=https%3A%2F%2Fwww.crazyegg.com%2Fblog%2Fexample-travel-websites%2F&tbnid=7KATKj1YIHLjoM&vet=12ahUKEwiXvOzk4-zwAhVpNrcAHVsaC5QQMygEegUIARDXAQ..i&docid=f8ygpk_6cAThlM&w=1200&h=630&q=travel&ved=2ahUKEwiXvOzk4-zwAhVpNrcAHVsaC5QQMygEegUIARDXAQ)
+![Image of nature](https://ceblog.s3.amazonaws.com/wp-content/uploads/2012/05/20172622/ce-travel.jpg)
